@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "React",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "HTML",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#hooks",
+      "color": {
+        "a": 1,
+        "rgb": 16713065
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.81328531901042,
+  "lineSizeMultiplier": 3.117041015625,
+  "collapse-forces": true,
+  "centerStrength": 0.4947509765625,
+  "repelStrength": 10.1407877604167,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.5602133476567656,
+  "close": true
+}
